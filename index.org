@@ -1,0 +1,10 @@
+#+TITLE: About
+
+Welcome to our humble website.
+
+We are chanters and members of the choir at [[http://www.holytrinity.in.goarch.org/][Holy Trinity Greek
+Orthodox Church in Fort Wayne, Indiana]].
+
+On this site, we are storing some resources that help us to chant and
+sing our services.  Please use these resources freely, if you feel
+that they can be of use to you also.

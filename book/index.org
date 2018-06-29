@@ -1,0 +1,16 @@
+#+TITLE: Choir Book
+
+We are currently developing a choir book for use at our parish, but we
+have only recently started.
+
+*Why use our own book and not simply buy another?* First, we are a
+group of people with varying musical abilities who are trying to grow
+together as an ensemble and as individual singers and chanters.  So,
+we have decided to embrace our idiosyncracies and use our own
+resources -- really most are our original renderings, not our
+compositions -- and we choose them to fit our particular needs.
+
+Here is (so far) the only resource we have developed.  It's basically
+a proof-of-concept of our usage of the [[http://lilypond.org/][lilypond software]].
+
+- The Great Litany: file:great-litany.pdf
