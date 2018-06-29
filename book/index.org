@@ -11,6 +11,7 @@ resources -- really most are our original renderings, not our
 compositions -- and we choose them to fit our particular needs.
 
 Here is (so far) the only resource we have developed.  It's basically
-a proof-of-concept of our usage of the [[http://lilypond.org/][lilypond software]].
+a proof-of-concept of our usage of the [[http://lilypond.org/][lilypond software]].  (See other
+work we've done in lilypond, since then, on the [[http:/parish-music/misc/][Misc]] page.)
 
-- The Great Litany: file:great-litany.pdf
+- The Great Litany: file:great-litany.pdf ([[https://raw.githubusercontent.com/psalmodia/choir-book/0c8b5049a36bc5da92f1ede496525276b736066a/great-litany.lytex][Source]])
