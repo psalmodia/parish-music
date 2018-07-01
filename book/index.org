@@ -3,6 +3,8 @@
 We are currently developing a choir book for use at our parish, but we
 have only recently started.
 
+Here is an *EARLY DRAFT of the Choir Book*: file:choir-book.pdf ([[https://raw.githubusercontent.com/psalmodia/choir-book/3a842145d8984b0e1e9809e3ff5b6ecca23e4caa/choir-book.lytex][Source]])
+
 *Why use our own book and not simply buy another?* First, we are a
 group of people with varying musical abilities who are trying to grow
 together as an ensemble and as individual singers and chanters.  So,
@@ -10,8 +12,6 @@ we have decided to embrace our idiosyncracies and use our own
 resources -- really most are our original renderings, not our
 compositions -- and we choose them to fit our particular needs.
 
-Here is (so far) the only resource we have developed.  It's basically
-a proof-of-concept of our usage of the [[http://lilypond.org/][lilypond software]].  (See other
-work we've done in lilypond, since then, on the [[http:/parish-music/misc/][Misc]] page.)
-
-- The Great Litany: file:great-litany.pdf ([[https://raw.githubusercontent.com/psalmodia/choir-book/0c8b5049a36bc5da92f1ede496525276b736066a/great-litany.lytex][Source]])
+By the way, we are developing this with [[http://lilypond.org/][lilypond]].  And we are still
+learning lilypond.  To see other work we've done in lilypond, please
+visit the [[http:/parish-music/misc/][Misc]] page.
