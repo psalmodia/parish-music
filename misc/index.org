@@ -11,3 +11,8 @@ Here are some resources, in no particular order.
 - Music for the Hierarchical Liturgy, when Metropolitan Nicholas
   visited us in June 2018.
   - file:choir-inserts-hierarchical-liturgy.pdf ([[https://raw.githubusercontent.com/psalmodia/choir-book/6ae8676c96819963fff208cc7a36a8be7f18fb15/choir-inserts-hierarchical-liturgy.lytex][Source]])
+
+
+- Resurrectional Apolytikion - Grave Tone
+  - As the recording says, this is from the Green Book.
+  - file:resurrectional-apolytikion-7.mp3
