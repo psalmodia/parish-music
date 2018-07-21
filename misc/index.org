@@ -15,4 +15,9 @@ Here are some resources, in no particular order.
 
 - Resurrectional Apolytikion - Grave Tone
   - As the recording says, this is from the Green Book.
-  - file:resurrectional-apolytikion-7.mp3
+  - Audio: file:resurrectional-apolytikion-7.mp3
+
+
+- St. Mary Magdalene Apolytikion (22 July)
+  - Sheet music: http://www.stanthonysmonastery.org/music/Menaion/Finale%202003%20-%20%5B5822%5D.pdf
+  - Audio: file:St-Mary-Magdalene-apolytikion.mp3
